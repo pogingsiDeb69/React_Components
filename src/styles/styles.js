@@ -6,7 +6,7 @@ export const styling = StyleSheet.create({
 		flex: 1,
 		
 		flexDirection: "column",
-		backgroundColor: "gray",
+		backgroundColor: "#fff",
 		gap:50
         
 	},
